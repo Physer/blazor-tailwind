@@ -40,7 +40,7 @@ dotnet run
 At a later time, instructions for publishing and hosting the app will be added to the README.
 
 ## Output
-You can see the following output when running the application without having any custom line of CSS:
+You can see the following output when running the application without having written any CSS:
 ![Result](docs/result.png?raw=true "result")
 
 ## Limitations
