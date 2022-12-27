@@ -39,6 +39,10 @@ dotnet run
 
 At a later time, instructions for publishing and hosting the app will be added to the README.
 
+## Output
+You can see the following output when running the application without having any custom line of CSS:
+![Result](docs/result.png?raw=true "result")
+
 ## Limitations
 * At this point in time, only Windows is supported.
 * The Tailwind CSS CLI has to be updated manually
