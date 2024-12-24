@@ -1,5 +1,7 @@
 # blazor-tailwind
 
+# ❗NOTICE: This repository and setup have been created based on Blazor's WASM mode before the introduction of Blazor Web Apps in .NET 8. If you wish to set-up Tailwind CSS for .NET projects, please take a look at [my blogpost](https://blog.alexschouls.com/tailwind/2024/06/13/tailwind-using-msbuild-in-dotnet.html) for an up-to-date version.
+
 ## Introduction
 This project is a small example application that showcases the use of Tailwind CSS with .NET's Blazor (WASM).
 
